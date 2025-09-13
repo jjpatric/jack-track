@@ -1,0 +1,123 @@
+[2025-07-31 08:00:00] Take Me Home Tonight - Eddie Money
+[2025-07-31 08:07:16] Under Pressure - Queen & David Bowie
+[2025-07-31 08:13:12] Roller - April Wine
+[2025-07-31 08:16:50] You Get What You Give - New Radicals
+[2025-07-31 08:25:09] Who Can It Be Now? - Men At Work
+[2025-07-31 08:33:30] Love Song - Sky
+[2025-07-31 08:40:01] Every Morning - Sugar Ray
+[2025-07-31 08:48:22] Standing In the Dark - Platinum Blonde
+[2025-07-31 08:51:25] King of Wishful Thinking - Go West
+[2025-07-31 08:59:11] Hey You - Bachman-Turner Overdrive
+[2025-07-31 09:05:44] We Didn't Start the Fire - Billy Joel
+[2025-07-31 09:11:05] Faded - soulDecision
+[2025-07-31 09:15:13] Sweet Child O' Mine - Guns N' Roses
+[2025-07-31 09:22:24] Go for Soda - Kim Mitchell
+[2025-07-31 09:27:48] Dreams - Fleetwood Mac
+[2025-07-31 09:31:59] Rebel Yell - Billy Idol
+[2025-07-31 09:39:06] Rhythm of My Heart - Rod Stewart
+[2025-07-31 09:42:40] Owner of a Lonely Heart - Yes
+[2025-07-31 09:46:52] Raise a Little Hell - Trooper
+[2025-07-31 09:52:15] Girls Just Wanna Have Fun - Lauper, Cyndi
+[2025-07-31 09:58:13] Stay In the Light - Honeymoon Suite
+[2025-07-31 10:02:22] Jack & Diane - John Mellencamp
+[2025-07-31 10:07:10] Our House - Madness
+[2025-07-31 10:10:44] Why Don't You & I - Santana & Chad Kroeger
+[2025-07-31 10:14:53] Out Of Touch - Hall & Oates
+[2025-07-31 10:19:38] Carry On - The Box
+[2025-07-31 10:24:25] Praise You - Fatboy Slim
+[2025-07-31 10:27:59] Run To You - Adams, Bryan
+[2025-07-31 10:32:09] I Ran - A Flock of Seagulls
+[2025-07-31 10:36:21] Complicated - Avril Lavigne
+[2025-07-31 10:40:31] Big League - Tom Cochrane
+[2025-07-31 10:44:42] In The Air Tonight - Collins, Phil
+[2025-07-31 10:53:03] September - Earth, Wind & Fire
+[2025-07-31 10:56:37] Thinking of You - Harlequin
+[2025-07-31 11:00:12] Mysterious Ways - U2
+[2025-07-31 11:06:08] Get Outta My Dreams, Get Into My Car - Billy Ocean
+[2025-07-31 11:09:42] Home For a Rest - Spirit of the West
+[2025-07-31 11:15:04] Your Love - The Outfield
+[2025-07-31 11:19:13] Black Cars - Gino Vannelli
+[2025-07-31 11:24:34] Hold the Line - Toto
+[2025-07-31 11:28:44] (I Just) Died in Your Arms - Cutting Crew
+[2025-07-31 11:33:29] It Falls Apart - Odds
+[2025-07-31 11:37:37] The One I Love - REM
+[2025-07-31 11:40:36] What Kind of Love Is This - Streetheart
+[2025-07-31 11:44:47] Here I Go Again (Live) - Whitesnake
+[2025-07-31 11:49:33] Crazy Talk - Chilliwack
+[2025-07-31 11:53:43] This Is How We Do It - Montell Jordan
+[2025-07-31 12:00:50] Waiting for a Star to Fall - Boy Meets Girl
+[2025-07-31 12:05:00] Mad About You - Belinda Carlisle
+[2025-07-31 12:09:10] Do You Believe In Love - Huey Lewis & The News
+[2025-07-31 12:12:43] Every Breath You Take - The Police
+[2025-07-31 12:16:17] While My Guitar Gently Weeps - The Jeff Healey Band
+[2025-07-31 12:23:28] Legs - ZZ Top
+[2025-07-31 12:28:16] Burning In Love - Honeymoon Suite
+[2025-07-31 12:32:29] You Spin Me Round (Like a Record) - Dead or Alive
+[2025-07-31 12:35:28] Rock Me Amadeus - Falco
+[2025-07-31 12:39:03] Stompa - Serena Ryder
+[2025-07-31 12:42:37] Welcome to the Jungle - Guns N' Roses
+[2025-07-31 12:50:21] Never Surrender - Corey Hart
+[2025-07-31 12:55:43] The Sign - Ace of Base
+[2025-07-31 12:58:43] With or Without You - U2
+[2025-07-31 13:03:29] The Look - Roxette
+[2025-07-31 13:07:40] Dark Horse - Amanda Marshall
+[2025-07-31 13:13:02] Free Fallin' - Tom Petty
+[2025-07-31 13:17:48] Romantic Traffic - Spoons
+[2025-07-31 13:23:09] Always Something There To Remind Me - Naked Eyes
+[2025-07-31 13:27:22] Building a Mystery - Sarah McLachlan
+[2025-07-31 13:31:33] I Melt With You - Modern English
+[2025-07-31 13:35:43] Tonight is a Wonderful Time - April Wine
+[2025-07-31 13:39:55] Don't Stop Believin' - Journey
+[2025-07-31 13:44:06] Push It - Salt-N-Pepa
+[2025-07-31 13:51:49] It Doesn't Really Matter - Platinum Blonde
+[2025-07-31 13:56:00] Zombie - The Cranberries
+[2025-07-31 14:01:58] Maneater - Hall & Oates
+[2025-07-31 14:06:08] Cars - Numan, Gary
+[2025-07-31 14:10:20] Unwell - Matchbox 20
+[2025-07-31 14:14:31] Come On Eileen - Dexys Midnight Runners
+[2025-07-31 14:18:41] You Ain't Seen Nothing Yet - Bachman-Turner Overdrive
+[2025-07-31 14:23:27] Enjoy the Silence - Depeche Mode
+[2025-07-31 14:27:37] The Kid Is Hot Tonight - Loverboy
+[2025-07-31 14:32:30] Under Pressure - Queen & David Bowie
+[2025-07-31 14:36:07] Clocks - Coldplay
+[2025-07-31 14:41:29] Patio Lanterns - Kim Mitchell
+[2025-07-31 14:45:02] Everybody Wants to Rule the World - Tears for Fears
+[2025-07-31 14:51:00] Sultans of Swing - Dire Straits
+[2025-07-31 14:57:34] Hard to Laugh - The Pursuit of Happiness
+[2025-07-31 14:59:57] Small Town - John Cougar Mellencamp
+[2025-07-31 15:04:08] She Ain't Pretty - The Northern Pikes
+[2025-07-31 15:07:06] Summer Of '69 - Bryan Adams
+[2025-07-31 15:11:17] Urgent - Foreigner
+[2025-07-31 15:17:14] Rocket Man - Elton John
+[2025-07-31 15:22:02] Another One Bites the Dust - Queen
+[2025-07-31 15:27:23] Rockstar - Nickleback
+[2025-07-31 15:31:34] Sussudio - Phil Collins
+[2025-07-31 15:36:19] Something to Talk About - Bonnie Raitt
+[2025-07-31 15:39:55] The Boys of Summer - Don Henley
+[2025-07-31 15:44:43] One Night in Bangkok - Murray Head
+[2025-07-31 15:51:52] Feel It Again - Honeymoon Suite
+[2025-07-31 15:57:14] Mrs. Robinson - The Lemonheads
+[2025-07-31 16:00:49] You Shook Me All Night Long - AC/DC
+[2025-07-31 16:06:10] The Tide Is High - Blondie
+[2025-07-31 16:11:31] Enid - Barenaked Ladies
+[2025-07-31 16:15:05] Gloria - Laura Branigan
+[2025-07-31 16:19:15] And She Was - Talking Heads
+[2025-07-31 16:25:48] I Don't Want to Miss a Thing - Aerosmith
+[2025-07-31 16:29:59] Lunatic Fringe - Red Rider
+[2025-07-31 16:34:08] Don't You (Forget About Me) - Simple Minds
+[2025-07-31 16:38:18] Hot n Cold - Katy Perry
+[2025-07-31 16:42:29] Fly At Night - Chilliwack
+[2025-07-31 16:47:15] Like a Prayer - Madonna
+[2025-07-31 16:55:35] Baby I Love Your Way - Peter Frampton
+[2025-07-31 17:00:57] Modern Love - David Bowie
+[2025-07-31 17:04:30] Karma Chameleon - Culture Club
+[2025-07-31 17:09:51] All That You Are (x3) - Econoline Crush
+[2025-07-31 17:14:02] 1999 - Prince
+[2025-07-31 17:19:23] I Did It for Love - Harlequin
+[2025-07-31 17:24:45] I Was Made for Lovin' You - Kiss
+[2025-07-31 17:29:32] Africa - Toto
+[2025-07-31 17:34:19] Turn Off the Light - Nelly Furtado
+[2025-07-31 17:38:28] Crazy Train - Ozzy Osbourne
+[2025-07-31 17:43:14] Eyes of a Stranger - The Payola$
+[2025-07-31 17:49:48] Eye of the Tiger - Survivor
+[2025-07-31 17:55:45] One Day In Your Life - 54-40

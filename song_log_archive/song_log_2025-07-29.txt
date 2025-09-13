@@ -1,0 +1,126 @@
+[2025-07-29 08:00:00] Somebody - Bryan Adams
+[2025-07-29 08:05:28] Africa - Toto
+[2025-07-29 08:10:51] What Does It Take - Honeymoon Suite
+[2025-07-29 08:16:48] Enjoy the Silence - Depeche Mode
+[2025-07-29 08:22:48] Wanted Dead or Alive - Bon Jovi
+[2025-07-29 08:29:56] Steal My Sunshine - LEN
+[2025-07-29 08:34:09] Like a Prayer - Madonna
+[2025-07-29 08:44:17] Smooth (feat. Rob Thomas) - Santana
+[2025-07-29 08:47:52] Hot Girls In Love - Loverboy
+[2025-07-29 08:54:25] Hit Me With Your Best Shot - Benatar, Pat
+[2025-07-29 08:59:10] West End Girls - Pet Shop Boys
+[2025-07-29 09:06:54] Birmingham - Amanda Marshall
+[2025-07-29 09:11:42] Jessie's Girl - Springfield, Rick
+[2025-07-29 09:17:39] Voodoo Thing - Colin James
+[2025-07-29 09:24:50] Take On Me - a-ha
+[2025-07-29 09:30:49] Ironic - Alanis Morissette
+[2025-07-29 09:34:25] Africa - Toto
+[2025-07-29 09:39:15] I Did It for Love - Harlequin
+[2025-07-29 09:44:01] Hungry Like the Wolf - Duran Duran
+[2025-07-29 09:49:59] Day by Day - Doug and the Slugs
+[2025-07-29 09:55:21] Whatta Man (feat. En Vogue) - Salt-N-Pepa
+[2025-07-29 09:59:34] 1999 - Prince
+[2025-07-29 10:03:07] Rock You Like a Hurricane - Scorpions
+[2025-07-29 10:08:29] Powerless (Say What You Want) - Nelly Furtado
+[2025-07-29 10:12:03] Glory Days - Bruce Springsteen
+[2025-07-29 10:16:13] Cuts Like a Knife - Bryan Adams
+[2025-07-29 10:22:50] Wonderwall - Oasis
+[2025-07-29 10:27:36] Something to Talk About - Bonnie Raitt
+[2025-07-29 10:31:47] You Spin Me Round (Like a Record) - Dead or Alive
+[2025-07-29 10:34:45] Dani California - Red Hot Chili Peppers
+[2025-07-29 10:39:31] Don't It Make Ya Feel - Headpins
+[2025-07-29 10:44:17] If You Leave - O.M.D.
+[2025-07-29 10:50:52] December '63 - Four Seasons
+[2025-07-29 10:55:40] Feel It Again - Honeymoon Suite
+[2025-07-29 10:59:51] I Think We're Alone Now - Tiffany
+[2025-07-29 11:04:02] Pinch Me - Barenaked Ladies
+[2025-07-29 11:08:47] I Love Rock & Roll - Joan Jett
+[2025-07-29 11:12:21] Tokyo Rose - Idle Eyes
+[2025-07-29 11:17:44] The Logical Song - Supertramp
+[2025-07-29 11:21:19] Manic Monday - Bangles, The
+[2025-07-29 11:24:53] Nice to Luv You - 54-40
+[2025-07-29 11:29:03] Easy Lover - Phil Collins & Philip Bailey
+[2025-07-29 11:34:25] Barracuda - Heart
+[2025-07-29 11:39:11] I Wanna Dance With Somebody - Whitney Houston
+[2025-07-29 11:43:57] Runnin' Down a Dream (Live) - Tom Petty & The Heartbreakers
+[2025-07-29 11:48:08] The Safety Dance - Men Without Hats
+[2025-07-29 11:51:44] All I Wanna Do - Sheryl Crow
+[2025-07-29 11:55:55] Wouldn't It Be Good - Nik Kershaw
+[2025-07-29 12:01:54] Bohemian Rhapsody - Queen
+[2025-07-29 12:07:16] Thunderstruck - AC/DC
+[2025-07-29 12:12:38] I Want to Come Over - Melissa Etheridge
+[2025-07-29 12:18:02] Your Love - The Outfield
+[2025-07-29 12:21:36] Fifty-Mission Cap - The Tragically Hip
+[2025-07-29 12:27:34] Obsession - Animotion
+[2025-07-29 12:32:19] A Criminal Mind - Gowan
+[2025-07-29 12:37:05] Tainted Love - Soft Cell
+[2025-07-29 12:40:03] I Got You - Split Enz
+[2025-07-29 12:43:03] Blow At High Dough - The Tragically Hip
+[2025-07-29 12:47:48] Blister In The Sun - Violent Femmes
+[2025-07-29 12:53:45] White Hot - Red Rider
+[2025-07-29 12:58:32] Friday I'm In Love - The Cure
+[2025-07-29 13:02:42] Smalltown Boy - Bronski Beat
+[2025-07-29 13:07:30] Lovers In a Dangerous Time - Barenaked Ladies
+[2025-07-29 13:11:40] Here I Go Again (Live) - Whitesnake
+[2025-07-29 13:16:25] Every Little Tear - Paul Janz
+[2025-07-29 13:21:11] Le Freak - Chic
+[2025-07-29 13:26:33] Summer Of '69 - Bryan Adams
+[2025-07-29 13:30:43] When I'm Up - Great Big Sea
+[2025-07-29 13:34:19] Personal Jesus - Depeche Mode
+[2025-07-29 13:38:28] Love Is - Alannah Myles
+[2025-07-29 13:42:38] (I Just) Died in Your Arms - Cutting Crew
+[2025-07-29 13:46:12] The Reflex - Duran Duran
+[2025-07-29 13:53:24] Sweet Things In Life - Harlequin
+[2025-07-29 13:58:10] Bitch - Meredith Brooks
+[2025-07-29 14:02:21] Billie Jean - Michael Jackson
+[2025-07-29 14:07:08] Rocket - Def Leppard
+[2025-07-29 14:11:54] If You Could Read My Mind - Stars On 54
+[2025-07-29 14:15:29] Dancing With Myself / Eyes Without a Face (Soulwax Edit) [Mixed] - Billy Idol
+[2025-07-29 14:18:28] Echo Beach - Martha And The Muffins
+[2025-07-29 14:23:50] I Don't Want to Miss a Thing - Aerosmith
+[2025-07-29 14:28:06] Closer Together - The Box
+[2025-07-29 14:32:15] I Ran - A Flock of Seagulls
+[2025-07-29 14:35:49] Rehab - Amy Winehouse
+[2025-07-29 14:39:25] Working for the Weekend - Loverboy
+[2025-07-29 14:44:11] Heaven Is a Place On Earth - Belinda Carlisle
+[2025-07-29 14:50:44] Once in a Lifetime - Talking Heads
+[2025-07-29 14:56:04] Rock'N'Roll Duty - Kim Mitchell
+[2025-07-29 15:00:53] Closing Time - Semisonic
+[2025-07-29 15:04:28] Kiss On My List - Hall & Oates
+[2025-07-29 15:08:02] One Thing - Finger Eleven
+[2025-07-29 15:12:14] Sweet Child O' Mine - Guns N' Roses
+[2025-07-29 15:18:11] My Song - Glass Tiger
+[2025-07-29 15:22:57] Ballroom Blitz - Sweet
+[2025-07-29 15:27:07] Every Breath You Take - The Police
+[2025-07-29 15:31:54] Poets - The Tragically Hip
+[2025-07-29 15:35:30] Time After Time - Lauper, Cyndi
+[2025-07-29 15:39:39] Somebody's Out There - Triumph
+[2025-07-29 15:44:26] Jack & Diane - John Mellencamp
+[2025-07-29 15:51:00] Sinking Like a Sunset - Tom Cochrane
+[2025-07-29 15:56:58] Creep - Radiohead
+[2025-07-29 16:01:10] Sweet Dreams (Are Made of This) - Eurythmics
+[2025-07-29 16:06:01] Kiss - Prince
+[2025-07-29 16:10:10] Photograph - Nickelback
+[2025-07-29 16:14:20] Express Yourself - Madonna
+[2025-07-29 16:19:05] Hold On - Santana
+[2025-07-29 16:25:03] Two Princes - Spin Doctors
+[2025-07-29 16:28:36] Mama Let Him Play - Doucette
+[2025-07-29 16:33:23] Walking On Sunshine - Katrina and the Waves
+[2025-07-29 16:37:32] Use Somebody - Kings of Leon
+[2025-07-29 16:41:45] I Like to Rock - April Wine
+[2025-07-29 16:45:21] Cruel Summer - Bananarama
+[2025-07-29 16:52:29] We Will Rock You - Queen
+[2025-07-29 16:57:50] Moonlight Desires - Gowan
+[2025-07-29 17:02:01] Missing You - John Waite
+[2025-07-29 17:07:58] Money Honey - State of Shock
+[2025-07-29 17:11:32] Everybody Wants to Rule the World - Tears for Fears
+[2025-07-29 17:15:43] Romantic Traffic - Spoons
+[2025-07-29 17:22:59] Highway to Hell - AC/DC
+[2025-07-29 17:26:33] Don't Stop Believin' - Journey
+[2025-07-29 17:30:06] Rhythm of My Heart - Rod Stewart
+[2025-07-29 17:34:17] Carribean Queen - Billy Ocean
+[2025-07-29 17:37:53] Takin' Care of Business - Bachman-Turner Overdrive
+[2025-07-29 17:42:38] The Way You Make Me Feel - Michael Jackson
+[2025-07-29 17:47:24] Don't Dream It's Over - Crowded House
+[2025-07-29 17:53:57] Wild Horses - Gino Vannelli
+[2025-07-29 17:58:41] I Want It That Way - Backstreet Boys

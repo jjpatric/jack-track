@@ -1,0 +1,125 @@
+[2025-08-14 08:00:00] Never Gonna Give You Up - Rick Astley
+[2025-08-14 08:04:15] The Boys of Summer - Don Henley
+[2025-08-14 08:10:18] Something to Talk About - Bonnie Raitt
+[2025-08-14 08:16:16] Dreams - The Cranberries
+[2025-08-14 08:24:39] Working for the Weekend - Loverboy
+[2025-08-14 08:28:13] Ocean Pearl - 54-40
+[2025-08-14 08:34:46] Always Something There To Remind Me - Naked Eyes
+[2025-08-14 08:41:20] Mr. Brightside - The Killers
+[2025-08-14 08:47:54] Sinking Like a Sunset - Tom Cochrane
+[2025-08-14 08:53:17] Unbelievable - EMF
+[2025-08-14 08:59:15] Get Outta My Dreams, Get Into My Car - Billy Ocean
+[2025-08-14 09:04:01] You Oughta Know - Alanis Morissette
+[2025-08-14 09:08:47] Rebel Yell - Billy Idol
+[2025-08-14 09:15:57] It Doesn't Really Matter - Platinum Blonde
+[2025-08-14 09:23:08] Ballroom Blitz - Sweet
+[2025-08-14 09:27:19] Don't Stop Believin' - Journey
+[2025-08-14 09:33:18] Money Honey - State of Shock
+[2025-08-14 09:36:52] Sussudio - Phil Collins
+[2025-08-14 09:41:03] Making It Work - Doug and the Slugs
+[2025-08-14 09:46:26] Sweet Child O' Mine - Guns N' Roses
+[2025-08-14 09:53:08] Five Long Years - Colin James
+[2025-08-14 09:59:04] Are You Gonna Go My Way - Lenny Kravitz
+[2025-08-14 10:03:14] Summer Of '69 - Bryan Adams
+[2025-08-14 10:06:50] Electric Avenue - Eddy Grant
+[2025-08-14 10:10:24] Big Yellow Taxi (feat. Vanessa Carlton) - Counting Crows
+[2025-08-14 10:14:34] Legs - ZZ Top
+[2025-08-14 10:19:24] Fantasy - Aldo Nova
+[2025-08-14 10:24:46] I Don't Want to Miss a Thing - Aerosmith
+[2025-08-14 10:28:56] Crazy Talk - Chilliwack
+[2025-08-14 10:33:46] 1999 - Prince
+[2025-08-14 10:36:45] Californication - Red Hot Chili Peppers
+[2025-08-14 10:42:09] Radio Ga Ga - Queen
+[2025-08-14 10:48:43] Maneater - Hall & Oates
+[2025-08-14 10:56:35] The Logical Song - Supertramp
+[2025-08-14 11:00:47] I Like to Rock - April Wine
+[2025-08-14 11:05:35] Photograph - Def Leppard
+[2025-08-14 11:09:48] Faded - soulDecision
+[2025-08-14 11:13:24] Your Love - The Outfield
+[2025-08-14 11:17:34] On the Loose - Saga
+[2025-08-14 11:24:07] Baby I Love Your Way - Peter Frampton
+[2025-08-14 11:29:31] Down Under - Men At Work
+[2025-08-14 11:33:41] Photograph - Nickelback
+[2025-08-14 11:37:51] Funkytown - Lipps, Inc.
+[2025-08-14 11:42:02] Spaceship Superstar - Prism
+[2025-08-14 11:45:39] Sweet Dreams (Are Made of This) - Eurythmics
+[2025-08-14 11:49:13] Fame - Irene Cara
+[2025-08-14 11:52:50] I Did It for Love - Harlequin
+[2025-08-14 11:56:24] Return of the Mack - Mark Morrison
+[2025-08-14 12:05:22] I Will Survive - Gloria Gaynor
+[2025-08-14 12:08:21] Ahead by a Century - The Tragically Hip
+[2025-08-14 12:12:36] Poker Face - Lady Gaga
+[2025-08-14 12:16:47] Every Breath You Take - The Police
+[2025-08-14 12:23:54] 99 Luftballoons - Nena
+[2025-08-14 12:27:28] You're a Strange Animal - Gowan
+[2025-08-14 12:32:49] You Shook Me All Night Long - AC/DC
+[2025-08-14 12:36:23] Voices Carry - 'Til Tuesday
+[2025-08-14 12:40:32] She's So High - Tal Bachman
+[2025-08-14 12:44:07] Hold Me Now - Thompson Twins
+[2025-08-14 12:52:32] Rockin' In the Free World - Neil Young
+[2025-08-14 12:56:43] You Get What You Give - New Radicals
+[2025-08-14 13:01:31] West End Girls - Pet Shop Boys
+[2025-08-14 13:06:18] Fall from Grace - Amanda Marshall
+[2025-08-14 13:09:55] Jack & Diane - John Mellencamp
+[2025-08-14 13:14:43] Voodoo Thing - Colin James
+[2025-08-14 13:20:06] Hotel California - Eagles
+[2025-08-14 13:26:04] You Spin Me Round (Like a Record) - Dead or Alive
+[2025-08-14 13:30:15] Pinch Me - Barenaked Ladies
+[2025-08-14 13:34:26] Oh Sherrie - Steve Perry
+[2025-08-14 13:38:38] Don't Shed a Tear - Paul Carrack
+[2025-08-14 13:42:12] Another One Bites the Dust - Queen
+[2025-08-14 13:45:46] Somebody's Watching Me - Rockwell
+[2025-08-14 13:52:18] The Boys In The Bright White Sports Car - Trooper
+[2025-08-14 13:55:54] Mrs. Robinson - The Lemonheads
+[2025-08-14 14:00:40] I Can't Go for That (No Can Do) - Daryl Hall & John Oates
+[2025-08-14 14:03:41] Danger Zone - Kenny Loggins
+[2025-08-14 14:07:16] Running Up That Hill - Bush, Kate
+[2025-08-14 14:12:41] Love Song - Sky
+[2025-08-14 14:16:17] Mony Mony - Billy Idol
+[2025-08-14 14:21:39] She Drives Me Crazy - Fine Young Cannibals
+[2025-08-14 14:27:40] Life Is a Highway - Tom Cochrane
+[2025-08-14 14:31:52] Hit Me With Your Best Shot - Benatar, Pat
+[2025-08-14 14:35:27] Wake Me Up Before You Go Go - Wham!
+[2025-08-14 14:39:38] Complicated - Avril Lavigne
+[2025-08-14 14:43:15] Say Hello - April Wine
+[2025-08-14 14:47:25] (I Just) Died in Your Arms - Cutting Crew
+[2025-08-14 14:53:23] Hold the Line - Toto
+[2025-08-14 14:57:35] Baby Ran - 54-40
+[2025-08-14 15:01:46] Sex and Candy - Marcy Playground
+[2025-08-14 15:04:46] It's Still Rock and Roll to Me - Billy Joel
+[2025-08-14 15:08:22] Castles In the Sand - The Philosopher Kings
+[2025-08-14 15:13:09] The Way You Make Me Feel - Michael Jackson
+[2025-08-14 15:17:57] Go for Soda - Kim Mitchell
+[2025-08-14 15:24:32] Superstition - Stevie Wonder
+[2025-08-14 15:28:45] Don't You (Forget About Me) - Simple Minds
+[2025-08-14 15:34:12] The Old Apartment - Barenaked Ladies
+[2025-08-14 15:37:48] Gloria - Laura Branigan
+[2025-08-14 15:42:00] Cuts Like a Knife - Bryan Adams
+[2025-08-14 15:47:24] If You Leave - O.M.D.
+[2025-08-14 15:51:36] Maniac - Michael Sembello
+[2025-08-14 15:58:47] Damn I Wish I Was Your Lover - Sophie B. Hawkins
+[2025-08-14 16:03:34] Here I Go Again (Live) - Whitesnake
+[2025-08-14 16:09:33] Freeze-Frame - The J. Geils Band
+[2025-08-14 16:13:46] Rockstar - Nickleback
+[2025-08-14 16:18:33] Shout - Tears for Fears
+[2025-08-14 16:22:45] December '63 - Four Seasons
+[2025-08-14 16:28:09] One Headlight - The Wallflowers
+[2025-08-14 16:32:55] Hold On - Santana
+[2025-08-14 16:37:08] Tainted Love - Soft Cell
+[2025-08-14 16:40:09] Are You Gonna Be My Girl - Jet
+[2025-08-14 16:44:55] My Girl (Gone, Gone, Gone) - Chilliwack
+[2025-08-14 16:49:06] Like a Prayer - Madonna
+[2025-08-14 16:56:52] Two Tickets to Paradise - Eddie Money
+[2025-08-14 17:01:04] Everybody Have Fun Tonight - Wang Chung
+[2025-08-14 17:05:53] Looking For A Place To Happen - The Tragically Hip
+[2025-08-14 17:10:38] Eye of the Tiger - Survivor
+[2025-08-14 17:14:12] Romantic Traffic - Spoons
+[2025-08-14 17:20:47] Miss You - The Rolling Stones
+[2025-08-14 17:26:11] Take On Me - a-ha
+[2025-08-14 17:31:01] Deuces Are Wild - Aerosmith
+[2025-08-14 17:34:35] Tarzan Boy - Baltimora
+[2025-08-14 17:38:10] Good Times - Tom Cochrane
+[2025-08-14 17:42:22] The Boys of Summer - Don Henley
+[2025-08-14 17:46:34] One Night in Bangkok - Murray Head
+[2025-08-14 17:53:46] Don't Forget Me (When I'm Gone) - Glass Tiger
+[2025-08-14 17:58:32] Tubthumping - Chumbawamba

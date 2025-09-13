@@ -1,0 +1,127 @@
+[2025-08-27 08:00:00] I'm On Fire - Bruce Springsteen
+[2025-08-27 08:04:15] Legs - ZZ Top
+[2025-08-27 08:09:42] Dark Horse - Amanda Marshall
+[2025-08-27 08:16:01] You Shook Me All Night Long - AC/DC
+[2025-08-27 08:24:35] Get the Party Started - P!nk
+[2025-08-27 08:27:42] Standing In the Dark - Platinum Blonde
+[2025-08-27 08:33:45] Life Is a Highway - Tom Cochrane
+[2025-08-27 08:42:48] Hot Stuff - Donna Summer
+[2025-08-27 08:46:24] Working for the Weekend - Loverboy
+[2025-08-27 08:52:24] This Is How We Do It - Montell Jordan
+[2025-08-27 08:58:26] Love Is - Alannah Myles
+[2025-08-27 09:03:13] Jack & Diane - John Mellencamp
+[2025-08-27 09:06:49] The Best - Tina Turner
+[2025-08-27 09:11:02] Ooh It's Kinda Crazy - soulDecision
+[2025-08-27 09:15:49] What I Like About You - The Romantics
+[2025-08-27 09:19:26] Rise Up - The Parachute Club
+[2025-08-27 09:26:06] Losing My Religion - R.E.M.
+[2025-08-27 09:32:09] I Like to Rock - April Wine
+[2025-08-27 09:36:24] You Spin Me Round (Like a Record) - Dead or Alive
+[2025-08-27 09:39:59] Complicated - Avril Lavigne
+[2025-08-27 09:44:11] I Did It for Love - Harlequin
+[2025-08-27 09:47:46] Don't You Want Me - The Human League
+[2025-08-27 09:54:58] Don't Stop - Fleetwood Mac
+[2025-08-27 09:59:09] Closer Together - The Box
+[2025-08-27 10:02:45] Smalltown Boy - Bronski Beat
+[2025-08-27 10:06:58] Love You All - 54-40
+[2025-08-27 10:11:48] Don't Stop Believin' - Journey
+[2025-08-27 10:16:35] Something To Live For - Barney Bentall
+[2025-08-27 10:23:48] Two Tickets to Paradise - Eddie Money
+[2025-08-27 10:27:59] Always Something There To Remind Me - Naked Eyes
+[2025-08-27 10:32:13] Somewhere Out There - Our Lady Peace
+[2025-08-27 10:36:28] You Make My Dreams - Daryl Hall & John Oates
+[2025-08-27 10:39:29] Kids Wanna Rock - Bryan Adams
+[2025-08-27 10:42:31] I Love Rock & Roll - Joan Jett
+[2025-08-27 10:45:32] Always On My Mind - Pet Shop Boys
+[2025-08-27 10:52:10] Love Changes Everything - Honeymoon Suite
+[2025-08-27 10:57:00] Black or White - Michael Jackson
+[2025-08-27 11:00:37] I Ran - A Flock of Seagulls
+[2025-08-27 11:04:49] Need You Tonight - INXS
+[2025-08-27 11:08:26] Santa Monica - Theory of a Deadman
+[2025-08-27 11:13:48] Express Yourself - Madonna
+[2025-08-27 11:17:24] Whatcha Gonna Do - Chilliwack
+[2025-08-27 11:24:36] I Don't Want to Miss a Thing - Aerosmith
+[2025-08-27 11:28:48] We Run - Strange Advance
+[2025-08-27 11:33:00] Eye of the Tiger - Survivor
+[2025-08-27 11:37:14] Bye Bye Bye - *NSYNC
+[2025-08-27 11:40:13] Crazy On You - Heart
+[2025-08-27 11:44:25] Here I Go Again (Live) - Whitesnake
+[2025-08-27 11:49:13] Good Times - Chic
+[2025-08-27 11:53:25] Something to Talk About - Bonnie Raitt
+[2025-08-27 12:00:01] Happy - Pharrell Williams
+[2025-08-27 12:04:13] Sweet Caroline - Neil Diamond
+[2025-08-27 12:07:49] Walking On Sunshine - Katrina and the Waves
+[2025-08-27 12:12:01] Under the Bridge - Red Hot Chili Peppers
+[2025-08-27 12:16:51] Rock'N'Roll Duty - Kim Mitchell
+[2025-08-27 12:22:50] The Promise - When In Rome
+[2025-08-27 12:27:02] Island In the Sun - Weezer
+[2025-08-27 12:30:01] Spaceship Superstar - Prism
+[2025-08-27 12:34:14] The Boys of Summer - Don Henley
+[2025-08-27 12:39:02] How Will I Know - Whitney Houston
+[2025-08-27 12:43:50] Where Have All the Good People Gone? - Sam Roberts
+[2025-08-27 12:51:03] Rebel Yell - Billy Idol
+[2025-08-27 12:57:04] Never Surrender - Corey Hart
+[2025-08-27 13:01:59] Don't You (Forget About Me) - Simple Minds
+[2025-08-27 13:06:48] Forever Young - Alphaville
+[2025-08-27 13:11:01] Birmingham - Amanda Marshall
+[2025-08-27 13:14:36] Orange Crush - R.E.M.
+[2025-08-27 13:19:26] Cuts Like a Knife - Bryan Adams
+[2025-08-27 13:27:16] Semi-Charmed Life - Third Eye Blind
+[2025-08-27 13:31:27] What Kind of Love Is This - Streetheart
+[2025-08-27 13:35:41] 1999 - Prince
+[2025-08-27 13:39:18] Yellow - Coldplay
+[2025-08-27 13:43:30] Teacher, Teacher (Live) - 38 Special
+[2025-08-27 13:47:43] Heaven Is a Place On Earth - Belinda Carlisle
+[2025-08-27 13:55:32] Sultans of Swing - Dire Straits
+[2025-08-27 14:02:07] Pop Goes The World - Men Without Hats
+[2025-08-27 14:05:45] Urgent - Foreigner
+[2025-08-27 14:10:34] Boots or Hearts - The Tragically Hip
+[2025-08-27 14:14:46] Take On Me - a-ha
+[2025-08-27 14:18:23] Carry On - The Box
+[2025-08-27 14:25:36] I Wanna Be Sedated - Ramones
+[2025-08-27 14:28:36] Under Pressure - Queen & David Bowie
+[2025-08-27 14:32:48] One Thing - Finger Eleven
+[2025-08-27 14:36:23] Heart of Glass - Blondie
+[2025-08-27 14:39:59] Hard to Laugh - The Pursuit of Happiness
+[2025-08-27 14:43:36] Wake Me Up Before You Go Go - Wham!
+[2025-08-27 14:47:48] Lean on Me - Club Nouveau
+[2025-08-27 14:55:40] Thinking of You - Harlequin
+[2025-08-27 14:59:53] Love Is a Battlefield - Pat Benatar
+[2025-08-27 15:04:43] If I Could Turn Back Time - Cher
+[2025-08-27 15:08:56] Brother Down - Sam Roberts
+[2025-08-27 15:14:20] Legs - ZZ Top
+[2025-08-27 15:17:59] Tonight is a Wonderful Time - April Wine
+[2025-08-27 15:24:38] Wonderwall - Oasis
+[2025-08-27 15:29:27] Baby Ran - 54-40
+[2025-08-27 15:34:14] Down Under - Men At Work
+[2025-08-27 15:37:51] Sex On Fire - Kings of Leon
+[2025-08-27 15:40:50] Black Velvet - Myles, Alanah
+[2025-08-27 15:45:38] Manic Monday - Bangles, The
+[2025-08-27 15:52:14] The Boys Are Back In Town - Thin Lizzy
+[2025-08-27 15:56:26] Moonlight Desires - Gowan
+[2025-08-27 16:01:16] Straight Up - Paula Abdul
+[2025-08-27 16:04:54] No Regrets - Tom Cochrane
+[2025-08-27 16:10:21] Sweet Dreams (Are Made of This) - Eurythmics
+[2025-08-27 16:14:36] When You're Gone (feat. Melanie C) - Bryan Adams
+[2025-08-27 16:21:51] Old Time Rock & Roll - Bob Seger & The Silver Bullet Band
+[2025-08-27 16:24:53] Girls Just Wanna Have Fun - Lauper, Cyndi
+[2025-08-27 16:29:53] Til I Am Myself Again - Blue Rodeo
+[2025-08-27 16:33:38] West End Girls - Pet Shop Boys
+[2025-08-27 16:37:27] I Go Blind - Hootie & The Blowfish
+[2025-08-27 16:41:09] Everybody Wants to Rule the World - Tears for Fears
+[2025-08-27 16:45:20] Voices Carry - 'Til Tuesday
+[2025-08-27 16:53:09] Go for Soda - Kim Mitchell
+[2025-08-27 16:57:21] Interstate Love Song - Stone Temple Pilots
+[2025-08-27 17:00:56] Take Me Home Tonight - Eddie Money
+[2025-08-27 17:04:33] Tempted - Squeeze
+[2025-08-27 17:09:22] She Ain't Pretty - The Northern Pikes
+[2025-08-27 17:12:59] Blister In The Sun - Violent Femmes
+[2025-08-27 17:15:59] The Safety Dance - Men Without Hats
+[2025-08-27 17:21:24] Dreams - The Cranberries
+[2025-08-27 17:25:38] This Beat Goes On/Switchin' to Glide (Original Demo) - The Kings
+[2025-08-27 17:32:17] (I Just) Died in Your Arms - Cutting Crew
+[2025-08-27 17:35:53] All Summer Long - Kid Rock
+[2025-08-27 17:41:16] That Song - Big Wreck
+[2025-08-27 17:44:53] Jessie's Girl - Springfield, Rick
+[2025-08-27 17:53:03] Highway to Hell - AC/DC
+[2025-08-27 17:55:45] Stay In the Light - Honeymoon Suite

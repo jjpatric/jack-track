@@ -1,0 +1,125 @@
+[2025-08-19 08:00:00] Panama - Van Halen
+[2025-08-19 08:05:25] Jessie's Girl - Springfield, Rick
+[2025-08-19 08:09:00] Raise a Little Hell - Trooper
+[2025-08-19 08:16:24] Semi-Charmed Life - Third Eye Blind
+[2025-08-19 08:23:00] Venus - Bananarama
+[2025-08-19 08:30:50] Keep On Loving Me Baby - Colin James
+[2025-08-19 08:35:01] Down Under - Men At Work
+[2025-08-19 08:45:16] Hella Good - No Doubt
+[2025-08-19 08:51:52] When I Come Around - Green Day
+[2025-08-19 08:59:04] It's My Life - Talk Talk
+[2025-08-19 09:02:40] She's So High - Tal Bachman
+[2025-08-19 09:06:16] Every Breath You Take - The Police
+[2025-08-19 09:12:50] Somebody's Out There - Triumph
+[2025-08-19 09:18:49] Dream On - Aerosmith
+[2025-08-19 09:23:37] I Ran - A Flock of Seagulls
+[2025-08-19 09:29:37] Pinch Me - Barenaked Ladies
+[2025-08-19 09:33:13] Crazy Train - Ozzy Osbourne
+[2025-08-19 09:40:26] Heaven Is a Place On Earth - Belinda Carlisle
+[2025-08-19 09:44:01] I Hate Myself For Loving You - Joan Jett
+[2025-08-19 09:51:48] We Run - Strange Advance
+[2025-08-19 09:57:12] King of Wishful Thinking - Go West
+[2025-08-19 10:01:23] Billie Jean - Michael Jackson
+[2025-08-19 10:06:11] Hungry Heart - Bruce Springsteen
+[2025-08-19 10:10:22] Money Honey - State of Shock
+[2025-08-19 10:13:21] Flashdance...What A Feeling - Irene Cara
+[2025-08-19 10:18:08] White Hot - Red Rider
+[2025-08-19 10:25:19] The Sign - Ace of Base
+[2025-08-19 10:28:56] Your Daddy Don't Know - Toronto
+[2025-08-19 10:33:07] Everybody Wants to Rule the World - Tears for Fears
+[2025-08-19 10:36:44] I'm a Believer - Smash Mouth
+[2025-08-19 10:39:43] Standing In the Dark - Platinum Blonde
+[2025-08-19 10:43:55] Like a Prayer - Madonna
+[2025-08-19 10:51:42] My Best Friends Girl - Cars, The
+[2025-08-19 10:56:29] On the Loose - Saga
+[2025-08-19 11:00:04] Owner of a Lonely Heart - Yes
+[2025-08-19 11:03:40] Centerfold - The J. Geils Band
+[2025-08-19 11:07:52] Ooh It's Kinda Crazy - soulDecision
+[2025-08-19 11:12:39] Don't Stop Believin' - Journey
+[2025-08-19 11:17:26] I'm an Adult Now - The Pursuit of Happiness
+[2025-08-19 11:24:05] December '63 - Four Seasons
+[2025-08-19 11:27:45] Rebel Yell - Billy Idol
+[2025-08-19 11:33:44] When the Night Feels My Song - Bedouin Soundclash
+[2025-08-19 11:37:20] Blister In The Sun - Violent Femmes
+[2025-08-19 11:39:43] Hey You - Bachman-Turner Overdrive
+[2025-08-19 11:43:18] Hungry Like the Wolf - Duran Duran
+[2025-08-19 11:46:55] Red Red Wine - UB40
+[2025-08-19 11:49:19] Don't It Make Ya Feel - Headpins
+[2025-08-19 11:54:06] Better Man - Pearl Jam
+[2025-08-19 12:01:17] Careless Whisper - Wham
+[2025-08-19 12:04:52] Let's Dance - David Bowie
+[2025-08-19 12:09:03] Sister Christian - Night Ranger
+[2025-08-19 12:14:25] Another One Bites the Dust - Queen
+[2025-08-19 12:18:02] Drinking in L.A. - Bran Van 3000
+[2025-08-19 12:24:01] Call Me - Blondie
+[2025-08-19 12:28:54] Love Is - Alannah Myles
+[2025-08-19 12:32:31] You Spin Me Round (Like a Record) - Dead or Alive
+[2025-08-19 12:34:55] Bizarre Love Triangle - New Order
+[2025-08-19 12:39:43] Big Yellow Taxi (feat. Vanessa Carlton) - Counting Crows
+[2025-08-19 12:43:58] Start Me Up - The Rolling Stones
+[2025-08-19 12:49:58] Don't Shed a Tear - Paul Carrack
+[2025-08-19 12:54:09] Two Princes - Spin Doctors
+[2025-08-19 12:57:45] And She Was - Talking Heads
+[2025-08-19 13:01:21] Tarzan Boy - Baltimora
+[2025-08-19 13:04:56] Castles In the Sand - The Philosopher Kings
+[2025-08-19 13:09:45] Pour Some Sugar On Me - Def Leppard
+[2025-08-19 13:13:58] When You're Gone (feat. Melanie C) - Bryan Adams
+[2025-08-19 13:19:21] Saturday Night's Alright for Fighting - Elton John
+[2025-08-19 13:24:45] Don't You Want Me - The Human League
+[2025-08-19 13:28:59] Looking For A Place To Happen - The Tragically Hip
+[2025-08-19 13:33:45] What I Like About You - The Romantics
+[2025-08-19 13:36:12] Something to Talk About - Bonnie Raitt
+[2025-08-19 13:39:48] Eye of the Tiger - Survivor
+[2025-08-19 13:43:59] Too Shy - Kajagoogoo
+[2025-08-19 13:50:35] We're Here For A Good Time - Trooper
+[2025-08-19 13:54:46] How Bizarre - O.M.C.
+[2025-08-19 13:58:58] Kids in America (feat. Charlotte Hatherley) - Kim Wilde
+[2025-08-19 14:02:35] Livin' On a Prayer - Bon Jovi
+[2025-08-19 14:06:11] London Calling - The Clash
+[2025-08-19 14:10:23] Rhythm of My Heart - Rod Stewart
+[2025-08-19 14:14:35] Relax - Frankie Goes to Hollywood
+[2025-08-19 14:18:48] Spaceship Superstar - Prism
+[2025-08-19 14:24:49] Friday I'm In Love - The Cure
+[2025-08-19 14:28:27] Never Surrender - Corey Hart
+[2025-08-19 14:33:53] Your Love - The Outfield
+[2025-08-19 14:37:30] Hey Ya! - Outkast
+[2025-08-19 14:41:42] One Day In Your Life - 54-40
+[2025-08-19 14:47:05] Walking On Sunshine - Katrina and the Waves
+[2025-08-19 14:54:52] Baby I Love Your Way - Peter Frampton
+[2025-08-19 15:00:15] Good Times - Tom Cochrane
+[2025-08-19 15:03:52] Dancing In the Dark - Bruce Springsteen
+[2025-08-19 15:09:15] Stompa - Serena Ryder
+[2025-08-19 15:12:14] Maneater - Hall & Oates
+[2025-08-19 15:16:26] Someday - Glass Tiger
+[2025-08-19 15:23:03] Good Times - Chic
+[2025-08-19 15:26:38] The Boys of Summer - Don Henley
+[2025-08-19 15:32:01] All That You Are (x3) - Econoline Crush
+[2025-08-19 15:36:13] Beat It - Michael Jackson
+[2025-08-19 15:39:49] Magic Man - Heart
+[2025-08-19 15:46:25] Africa - Toto
+[2025-08-19 15:51:12] Do You Really Want to Hurt Me - Culture Club
+[2025-08-19 15:58:23] All Apologies - Nirvana
+[2025-08-19 16:02:35] Jessie's Girl - Springfield, Rick
+[2025-08-19 16:06:13] Electric Avenue - Eddy Grant
+[2025-08-19 16:10:26] Far Away - Nickelback
+[2025-08-19 16:16:24] Into the Groove - Madonna
+[2025-08-19 16:20:36] Somebody - Bryan Adams
+[2025-08-19 16:28:25] Dreams - The Cranberries
+[2025-08-19 16:32:36] Thinking of You - Harlequin
+[2025-08-19 16:37:23] Manic Monday - Bangles, The
+[2025-08-19 16:40:58] Boulevard of Broken Dreams - Green Day
+[2025-08-19 16:44:34] Moonlight Desires - Gowan
+[2025-08-19 16:49:22] Don't You (Forget About Me) - Simple Minds
+[2025-08-19 16:58:57] Say Hello - April Wine
+[2025-08-19 17:01:57] Addicted to Love - Robert Palmer
+[2025-08-19 17:06:08] Nice to Luv You - 54-40
+[2025-08-19 17:09:44] Here I Go Again (Live) - Whitesnake
+[2025-08-19 17:14:31] Pop Goes The World - Men Without Hats
+[2025-08-19 17:22:19] Go Your Own Way - Fleetwood Mac
+[2025-08-19 17:25:54] You Shook Me All Night Long - AC/DC
+[2025-08-19 17:30:06] I'm Like a Bird - Nelly Furtado
+[2025-08-19 17:34:55] Mony Mony - Billy Idol
+[2025-08-19 17:38:32] Sinking Like a Sunset - Tom Cochrane
+[2025-08-19 17:45:09] Love Is a Battlefield - Pat Benatar
+[2025-08-19 17:54:08] Roam - The B-52's
+[2025-08-19 17:57:47] 1979 - The Smashing Pumpkins

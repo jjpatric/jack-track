@@ -1,0 +1,129 @@
+[2025-07-30 08:00:00] Tubthumping - Chumbawamba
+[2025-07-30 08:04:47] Always Something There To Remind Me - Naked Eyes
+[2025-07-30 08:09:33] Rockstar - Nickleback
+[2025-07-30 08:14:55] Uptown Girl - Billy Joel
+[2025-07-30 08:20:18] Californication - Red Hot Chili Peppers
+[2025-07-30 08:25:04] Pop Goes The World - Men Without Hats
+[2025-07-30 08:28:38] One Headlight - The Wallflowers
+[2025-07-30 08:41:11] Carry On Wayward Son - Kansas
+[2025-07-30 08:49:01] Innocence - Harlequin
+[2025-07-30 08:56:44] Lovefool - The Cardigans
+[2025-07-30 08:59:45] Don't You Want Me - The Human League
+[2025-07-30 09:03:54] Walk of Life - Dire Straits
+[2025-07-30 09:08:04] Castles In the Sand - The Philosopher Kings
+[2025-07-30 09:12:49] Addicted to Love - Robert Palmer
+[2025-07-30 09:19:21] Roller - April Wine
+[2025-07-30 09:25:19] Losing My Religion - R.E.M.
+[2025-07-30 09:31:52] Romantic Traffic - Spoons
+[2025-07-30 09:35:28] Free Fallin' - Tom Petty
+[2025-07-30 09:40:14] Get Lucky (feat. Pharrell Williams) - Daft Punk
+[2025-07-30 09:44:24] One Night Love Affair - Bryan Adams
+[2025-07-30 09:49:10] Maneater - Hall & Oates
+[2025-07-30 09:56:15] Two Tickets to Paradise - Eddie Money
+[2025-07-30 09:59:51] Girls on Film - Duran Duran
+[2025-07-30 10:04:01] I'm Like a Bird - Nelly Furtado
+[2025-07-30 10:08:13] Don't Stop Believin' - Journey
+[2025-07-30 10:12:59] Never Surrender - Corey Hart
+[2025-07-30 10:19:33] Sweet Home Alabama - Lynyrd Skynyrd
+[2025-07-30 10:23:43] Danger Zone - Kenny Loggins
+[2025-07-30 10:28:29] Fall from Grace - Amanda Marshall
+[2025-07-30 10:32:40] Rock the Casbah - The Clash
+[2025-07-30 10:36:15] New Girl Now - Honeymoon Suite
+[2025-07-30 10:39:51] Everybody Wants to Rule the World - Tears for Fears
+[2025-07-30 10:44:01] Nothing's Gonna Stop Us Now - Starship
+[2025-07-30 10:51:46] Patio Lanterns - Kim Mitchell
+[2025-07-30 10:55:21] Song 2 - Blur
+[2025-07-30 10:57:09] Too Shy - Kajagoogoo
+[2025-07-30 11:01:18] The Boys of Summer - Don Henley
+[2025-07-30 11:06:04] I Can Dream About You - Dan Hartman
+[2025-07-30 11:10:52] BROKEN BONES - Love Inc.
+[2025-07-30 11:15:02] Heart of Glass - Blondie
+[2025-07-30 11:19:47] Lunatic Fringe - Red Rider
+[2025-07-30 11:25:09] I Don't Want to Miss a Thing - Aerosmith
+[2025-07-30 11:29:55] Don't Forget Me (When I'm Gone) - Glass Tiger
+[2025-07-30 11:34:06] Love Is a Battlefield - Pat Benatar
+[2025-07-30 11:38:16] Beautiful Day - U2
+[2025-07-30 11:42:26] Crazy On You - Heart
+[2025-07-30 11:46:36] Don't You (Forget About Me) - Simple Minds
+[2025-07-30 11:50:54] Killer Queen - Queen
+[2025-07-30 11:53:52] Hot Girls In Love - Loverboy
+[2025-07-30 11:59:48] She Drives Me Crazy - Fine Young Cannibals
+[2025-07-30 12:03:23] Kickstart My Heart - Mötley Crüe
+[2025-07-30 12:08:45] What Is Love - Haddaway
+[2025-07-30 12:13:32] Self Esteem - The Offspring
+[2025-07-30 12:17:43] Crying Over You - Platinum Blonde
+[2025-07-30 12:23:07] Fast Car - Tracy Chapman
+[2025-07-30 12:28:31] Mr. Brightside - The Killers
+[2025-07-30 12:31:29] This Beat Goes On/Switchin' to Glide (Original Demo) - The Kings
+[2025-07-30 12:38:04] Always Something There To Remind Me - Naked Eyes
+[2025-07-30 12:41:42] It's My Life - Talk Talk
+[2025-07-30 12:45:17] Big Yellow Taxi (feat. Vanessa Carlton) - Counting Crows
+[2025-07-30 12:51:18] You Shook Me All Night Long - AC/DC
+[2025-07-30 12:56:03] Somebody - Bryan Adams
+[2025-07-30 12:59:38] Fly Away - Lenny Kravitz
+[2025-07-30 13:03:13] 1999 - Prince
+[2025-07-30 13:06:46] 867-5309/Jenny - Tutone, Tommy
+[2025-07-30 13:10:56] Turn Off the Light - Nelly Furtado
+[2025-07-30 13:14:32] Crazy Train - Ozzy Osbourne
+[2025-07-30 13:19:54] Something to Talk About - Bonnie Raitt
+[2025-07-30 13:25:17] Praise You - Fatboy Slim
+[2025-07-30 13:28:52] Hey You - Bachman-Turner Overdrive
+[2025-07-30 13:33:02] Africa - Toto
+[2025-07-30 13:37:48] Sk8er Boi - Avril Lavigne
+[2025-07-30 13:40:47] We Run - Strange Advance
+[2025-07-30 13:44:57] Take Me Home Tonight - Eddie Money
+[2025-07-30 13:50:54] Brown Eyed Girl - Van Morrison
+[2025-07-30 13:54:29] The Safety Dance - Men Without Hats
+[2025-07-30 13:57:28] If It Makes You Happy - Sheryl Crow
+[2025-07-30 14:01:39] Another Brick In the Wall, Pt. 2 - Pink Floyd
+[2025-07-30 14:06:24] Rhythm of My Heart - Rod Stewart
+[2025-07-30 14:09:59] Eye of the Tiger - Survivor
+[2025-07-30 14:14:10] I Did It for Love - Harlequin
+[2025-07-30 14:19:33] Superstition - Stevie Wonder
+[2025-07-30 14:24:19] If You Leave - O.M.D.
+[2025-07-30 14:29:41] Remote Control - The Age of Electric
+[2025-07-30 14:33:16] Break My Stride - Matthew Wilder
+[2025-07-30 14:36:14] Black Velvet - Myles, Alanah
+[2025-07-30 14:41:37] Jessie's Girl - Springfield, Rick
+[2025-07-30 14:44:34] Little Lies - Fleetwood Mac
+[2025-07-30 14:51:42] What Does It Take - Honeymoon Suite
+[2025-07-30 14:55:52] I Can See Clearly Now - Jimmy Cliff
+[2025-07-30 14:58:51] Linger - The Cranberries
+[2025-07-30 15:03:36] Manic Monday - Bangles, The
+[2025-07-30 15:07:46] Head Over Heels / Broken - Tears for Fears
+[2025-07-30 15:12:31] Why Don't You & I - Santana & Chad Kroeger
+[2025-07-30 15:16:41] Jump - Van Halen
+[2025-07-30 15:20:51] Every Little Tear - Paul Janz
+[2025-07-30 15:28:00] Friday I'm In Love - The Cure
+[2025-07-30 15:31:34] Hit Me With Your Best Shot - Benatar, Pat
+[2025-07-30 15:34:32] Here I Go Again (Live) - Whitesnake
+[2025-07-30 15:39:17] Uptown Funk (feat. Bruno Mars) - Mark Ronson
+[2025-07-30 15:43:31] Five Long Years - Colin James
+[2025-07-30 15:48:52] Wake Me Up Before You Go Go - Wham!
+[2025-07-30 15:56:01] The Logical Song - Supertramp
+[2025-07-30 16:00:46] Baby Ran - 54-40
+[2025-07-30 16:04:57] The Promise - When In Rome
+[2025-07-30 16:09:07] American Woman - Lenny Kravitz
+[2025-07-30 16:13:17] I Wanna Dance With Somebody - Whitney Houston
+[2025-07-30 16:18:03] A Criminal Mind - Gowan
+[2025-07-30 16:25:48] Saturday Night's Alright for Fighting - Elton John
+[2025-07-30 16:30:35] Always Something There To Remind Me - Naked Eyes
+[2025-07-30 16:35:59] If I Had A Million Dollars - Barenaked Ladies
+[2025-07-30 16:40:09] Barracuda - Heart
+[2025-07-30 16:45:31] In The Air Tonight - Collins, Phil
+[2025-07-30 16:50:17] Kids in America (feat. Charlotte Hatherley) - Kim Wilde
+[2025-07-30 16:57:24] Your Daddy Don't Know - Toronto
+[2025-07-30 17:01:00] As Long as You Love Me - Backstreet Boys
+[2025-07-30 17:05:10] Heaven Is a Place On Earth - Belinda Carlisle
+[2025-07-30 17:09:20] Need You Tonight - INXS
+[2025-07-30 17:12:55] Fifty-Mission Cap - The Tragically Hip
+[2025-07-30 17:17:41] Straight Up - Paula Abdul
+[2025-07-30 17:20:41] Tokyo Rose - Idle Eyes
+[2025-07-30 17:27:17] Enjoy the Silence - Depeche Mode
+[2025-07-30 17:31:26] Love Is - Alannah Myles
+[2025-07-30 17:35:37] Under Pressure - Queen & David Bowie
+[2025-07-30 17:39:10] Somebody That I Used to Know (feat. Kimbra) - Gotye
+[2025-07-30 17:44:31] Whatcha Gonna Do - Chilliwack
+[2025-07-30 17:48:42] (I Just) Died in Your Arms - Cutting Crew
+[2025-07-30 17:56:33] Roxanne - Police, The
+[2025-07-30 17:59:31] Good Times - Tom Cochrane

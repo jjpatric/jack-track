@@ -1,0 +1,127 @@
+[2025-08-29 08:00:00] You Ain't Seen Nothing Yet - Bachman-Turner Overdrive
+[2025-08-29 08:06:37] Express Yourself - Madonna
+[2025-08-29 08:11:24] Head over Feet - Alanis Morissette
+[2025-08-29 08:17:59] Africa - Toto
+[2025-08-29 08:29:22] The Middle - Jimmy Eat World
+[2025-08-29 08:31:46] The Safety Dance - Men Without Hats
+[2025-08-29 08:36:34] Friday I'm In Love - The Cure
+[2025-08-29 08:44:19] September - Earth, Wind & Fire
+[2025-08-29 08:48:30] Echo Beach - Martha And The Muffins
+[2025-08-29 08:55:04] Mama Let Him Play - Doucette
+[2025-08-29 09:02:14] (I Just) Died in Your Arms - Cutting Crew
+[2025-08-29 09:08:13] I Won't Back Down - Tom Petty
+[2025-08-29 09:11:13] Superman's Dead - Our Lady Peace
+[2025-08-29 09:16:00] Hungry Eyes - Eric Carmen
+[2025-08-29 09:19:38] Lay It On the Line - Triumph
+[2025-08-29 09:27:28] Life Is a Highway - Tom Cochrane
+[2025-08-29 09:32:51] Romantic Traffic - Spoons
+[2025-08-29 09:35:51] Under Pressure - Queen & David Bowie
+[2025-08-29 09:40:03] Hot n Cold - Katy Perry
+[2025-08-29 09:45:26] Crazy Talk - Chilliwack
+[2025-08-29 09:47:50] Girls Just Wanna Have Fun - Lauper, Cyndi
+[2025-08-29 09:53:14] New Girl Now - Honeymoon Suite
+[2025-08-29 10:00:26] The One I Love - REM
+[2025-08-29 10:04:03] American Woman - Lenny Kravitz
+[2025-08-29 10:07:40] Danger Zone - Kenny Loggins
+[2025-08-29 10:11:52] Cloud #9 - Bryan Adams
+[2025-08-29 10:17:15] Saturday Night's Alright for Fighting - Elton John
+[2025-08-29 10:22:03] Jessie's Girl - Springfield, Rick
+[2025-08-29 10:26:15] Turn Off the Light - Nelly Furtado
+[2025-08-29 10:29:50] Let's Hear It for the Boy - Deniece Williams
+[2025-08-29 10:34:01] You're a Strange Animal - Gowan
+[2025-08-29 10:39:25] Maneater - Hall & Oates
+[2025-08-29 10:43:38] Rocket - Def Leppard
+[2025-08-29 10:51:27] Say Hello - April Wine
+[2025-08-29 10:55:02] Lovefool - The Cardigans
+[2025-08-29 10:58:38] Down Under - Men At Work
+[2025-08-29 11:02:49] One Night in Bangkok - Murray Head
+[2025-08-29 11:07:02] Courage - Tragically Hip
+[2025-08-29 11:11:14] Every Little Thing She Does Is Magic - Police, The
+[2025-08-29 11:15:25] Tokyo Rose - Idle Eyes
+[2025-08-29 11:21:24] Praise You - Fatboy Slim
+[2025-08-29 11:25:01] The Boys In The Bright White Sports Car - Trooper
+[2025-08-29 11:28:38] Love Is a Battlefield - Pat Benatar
+[2025-08-29 11:32:50] Hey Ya! - Outkast
+[2025-08-29 11:36:31] Carry On - The Box
+[2025-08-29 11:40:07] Sweet Dreams (Are Made of This) - Eurythmics
+[2025-08-29 11:43:48] Heartache Tonite - Eagles
+[2025-08-29 11:48:40] Hold On - Santana
+[2025-08-29 11:57:41] Superstition - Stevie Wonder
+[2025-08-29 12:01:52] Feel Good Inc - Gorillaz
+[2025-08-29 12:05:27] Madness - Muse
+[2025-08-29 12:09:41] You Get What You Give - New Radicals
+[2025-08-29 12:14:30] Rise Up - The Parachute Club
+[2025-08-29 12:22:20] Just Like Heaven - The Cure
+[2025-08-29 12:25:56] Drift Away - Uncle Kracker
+[2025-08-29 12:29:33] My Girl (Gone, Gone, Gone) - Chilliwack
+[2025-08-29 12:33:45] Don't You Want Me - The Human League
+[2025-08-29 12:38:33] Wanted Dead or Alive - Bon Jovi
+[2025-08-29 12:42:10] Rockstar - Nickleback
+[2025-08-29 12:49:25] I Ran - A Flock of Seagulls
+[2025-08-29 12:53:40] One Day In Your Life - 54-40
+[2025-08-29 12:58:29] I Love Rock & Roll - Joan Jett
+[2025-08-29 13:02:05] Wanna Be Startin' Somethin' (Demo Version) - Michael Jackson
+[2025-08-29 13:08:06] Building a Mystery - Sarah McLachlan
+[2025-08-29 13:12:18] Glory Days - Bruce Springsteen
+[2025-08-29 13:17:05] Eyes of a Stranger - The Payola$
+[2025-08-29 13:23:41] Self Esteem - The Offspring
+[2025-08-29 13:28:30] Day by Day - Doug and the Slugs
+[2025-08-29 13:32:05] You Spin Me Round (Like a Record) - Dead or Alive
+[2025-08-29 13:35:41] Beautiful Day - U2
+[2025-08-29 13:39:17] Roller - April Wine
+[2025-08-29 13:43:29] Another One Bites the Dust - Queen
+[2025-08-29 13:50:41] December '63 - Four Seasons
+[2025-08-29 13:54:17] Go for Soda - Kim Mitchell
+[2025-08-29 13:57:53] The Logical Song - Supertramp
+[2025-08-29 14:02:06] I'm Still Standing - Elton John
+[2025-08-29 14:05:05] Is Anybody Home? - Our Lady Peace
+[2025-08-29 14:08:40] If You Leave - O.M.D.
+[2025-08-29 14:13:28] I'm an Adult Now - The Pursuit of Happiness
+[2025-08-29 14:21:16] Bad Case Of Loving You - Robert Palmer
+[2025-08-29 14:24:17] Everybody Wants to Rule the World - Tears for Fears
+[2025-08-29 14:29:40] New Orleans Is Sinking - The Tragically Hip
+[2025-08-29 14:33:51] Modern Love - David Bowie
+[2025-08-29 14:37:27] Sunglasses At Night - Hart, Corey
+[2025-08-29 14:41:41] Take Me Home Tonight - Eddie Money
+[2025-08-29 14:44:40] Electric Avenue - Eddy Grant
+[2025-08-29 14:51:52] Feel It Again - Honeymoon Suite
+[2025-08-29 14:56:40] Smells Like Teen Spirit - Nirvana
+[2025-08-29 15:01:28] Jack & Diane - John Mellencamp
+[2025-08-29 15:06:18] Always On My Mind - Pet Shop Boys
+[2025-08-29 15:09:54] Signs - Tesla
+[2025-08-29 15:12:54] It's My Life - Talk Talk
+[2025-08-29 15:16:30] White Hot - Red Rider
+[2025-08-29 15:24:53] One Headlight - The Wallflowers
+[2025-08-29 15:29:41] Something to Talk About - Bonnie Raitt
+[2025-08-29 15:33:16] Manic Monday - Bangles, The
+[2025-08-29 15:36:18] Viva La Vida - Coldplay
+[2025-08-29 15:39:54] Innocence - Harlequin
+[2025-08-29 15:44:42] Rebel Yell - Billy Idol
+[2025-08-29 15:53:06] Hot Stuff - Donna Summer
+[2025-08-29 15:56:41] On the Loose - Saga
+[2025-08-29 16:01:30] Valerie - Winwood, Steve
+[2025-08-29 16:05:41] How You Remind Me - Nickelback
+[2025-08-29 16:09:17] Like a Prayer - Madonna
+[2025-08-29 16:15:19] Someday - Glass Tiger
+[2025-08-29 16:21:57] Ballroom Blitz - Sweet
+[2025-08-29 16:26:10] Livin' On a Prayer - Bon Jovi
+[2025-08-29 16:30:22] Brian Wilson - Barenaked Ladies
+[2025-08-29 16:33:57] Take My Breath Away - Berlin
+[2025-08-29 16:37:33] Pop Goes The World - Men Without Hats
+[2025-08-29 16:42:21] Pour Some Sugar On Me - Def Leppard
+[2025-08-29 16:46:32] You Keep Me Hangin' On - Kim Wilde
+[2025-08-29 16:55:33] Barracuda - Heart
+[2025-08-29 16:59:45] Closing Time - Semisonic
+[2025-08-29 17:04:33] Don't Stop Believin' - Journey
+[2025-08-29 17:08:10] The Tide Is High - Blondie
+[2025-08-29 17:12:59] Back To You - Bryan Adams
+[2025-08-29 17:17:14] It's Still Rock and Roll to Me - Billy Joel
+[2025-08-29 17:20:15] Rockin' In the Free World - Neil Young
+[2025-08-29 17:27:25] Enjoy the Silence - Depeche Mode
+[2025-08-29 17:31:36] Sign of the Gypsy Queen - April Wine
+[2025-08-29 17:35:47] Sweet Child O' Mine - Guns N' Roses
+[2025-08-29 17:39:59] Get Lucky (feat. Pharrell Williams) - Daft Punk
+[2025-08-29 17:44:11] Wild Horses - Gino Vannelli
+[2025-08-29 17:48:58] I Wanna Dance With Somebody - Whitney Houston
+[2025-08-29 17:56:12] You're My Best Friend - Queen
+[2025-08-29 17:58:36] Standing In the Dark - Platinum Blonde

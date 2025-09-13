@@ -1,0 +1,127 @@
+[2025-08-28 08:00:00] 1999 - Prince
+[2025-08-28 08:06:01] Take Me Home Tonight - Eddie Money
+[2025-08-28 08:10:14] Patio Lanterns - Kim Mitchell
+[2025-08-28 08:16:14] Praise You - Fatboy Slim
+[2025-08-28 08:25:14] It's Still Rock and Roll to Me - Billy Joel
+[2025-08-28 08:27:39] The Boys In The Bright White Sports Car - Trooper
+[2025-08-28 08:34:16] Maneater - Hall & Oates
+[2025-08-28 08:42:04] Times Like These - Foo Fighters
+[2025-08-28 08:48:40] Innocence - Harlequin
+[2025-08-28 08:57:03] Something To Live For - Barney Bentall
+[2025-08-28 09:01:21] Just Can't Get Enough - Depeche Mode
+[2025-08-28 09:06:09] Brother Down - Sam Roberts
+[2025-08-28 09:10:20] Manic Monday - Bangles, The
+[2025-08-28 09:15:08] Hit Me With Your Best Shot - Benatar, Pat
+[2025-08-28 09:20:32] The Joker - Steve Miller Band
+[2025-08-28 09:24:08] Billie Jean - Michael Jackson
+[2025-08-28 09:30:43] I'm Like a Bird - Nelly Furtado
+[2025-08-28 09:35:30] Where the Streets Have No Name - U2
+[2025-08-28 09:40:19] Good Times - Tom Cochrane
+[2025-08-28 09:44:32] Another One Bites the Dust - Queen
+[2025-08-28 09:48:08] Somebody's Watching Me - Rockwell
+[2025-08-28 09:55:19] Voodoo Thing - Colin James
+[2025-08-28 09:58:54] Hey Jealousy - Gin Blossoms
+[2025-08-28 10:02:31] Your Love - The Outfield
+[2025-08-28 10:06:11] Blue Monday - New Order
+[2025-08-28 10:11:01] You Oughta Know - Alanis Morissette
+[2025-08-28 10:14:39] Keep On Loving You - REO Speedwagon
+[2025-08-28 10:18:50] Baby Ran - 54-40
+[2025-08-28 10:26:01] You Get What You Give - New Radicals
+[2025-08-28 10:30:13] Pop Goes The World - Men Without Hats
+[2025-08-28 10:35:02] If You Leave - O.M.D.
+[2025-08-28 10:39:14] Mr. Brightside - The Killers
+[2025-08-28 10:42:51] Someday - Glass Tiger
+[2025-08-28 10:47:11] Hungry Like the Wolf - Duran Duran
+[2025-08-28 10:52:35] Message In A Bottle - Police, The
+[2025-08-28 10:57:24] Black Cars - Gino Vannelli
+[2025-08-28 11:01:00] Raspberry Beret - Prince
+[2025-08-28 11:04:35] Dark Horse - Amanda Marshall
+[2025-08-28 11:10:00] Sweet Child O' Mine - Guns N' Roses
+[2025-08-28 11:15:25] Black Velvet - Myles, Alanah
+[2025-08-28 11:22:37] I Want You to Want Me - Cheap Trick
+[2025-08-28 11:26:14] Livin' On a Prayer - Bon Jovi
+[2025-08-28 11:30:26] Drinking in L.A. - Bran Van 3000
+[2025-08-28 11:34:02] Learning to Fly - Tom Petty & The Heartbreakers
+[2025-08-28 11:38:14] On the Loose - Saga
+[2025-08-28 11:42:27] Summer Of '69 - Bryan Adams
+[2025-08-28 11:46:03] Higher Love - Steve Winwood
+[2025-08-28 11:49:38] Go for Soda - Kim Mitchell
+[2025-08-28 11:54:25] My Own Worst Enemy - Lit
+[2025-08-28 12:01:01] Faith - George Michael
+[2025-08-28 12:02:48] You Shook Me All Night Long - AC/DC
+[2025-08-28 12:07:00] Dancing Queen - ABBA
+[2025-08-28 12:11:12] In The Air Tonight - Collins, Phil
+[2025-08-28 12:16:00] Torn - Natalie Imbruglia
+[2025-08-28 12:22:00] Kiss On My List - Hall & Oates
+[2025-08-28 12:26:12] Standing In the Dark - Platinum Blonde
+[2025-08-28 12:29:47] Jack & Diane - John Mellencamp
+[2025-08-28 12:33:58] Drive - The Cars
+[2025-08-28 12:38:10] She La - 54-40
+[2025-08-28 12:42:58] Carribean Queen - Billy Ocean
+[2025-08-28 12:49:33] What Does It Take - Honeymoon Suite
+[2025-08-28 12:53:46] Enjoy the Silence - Depeche Mode
+[2025-08-28 12:58:34] Call Me - Blondie
+[2025-08-28 13:02:45] It Falls Apart - Odds
+[2025-08-28 13:05:44] Like a Prayer - Madonna
+[2025-08-28 13:11:45] Don't Forget Me (When I'm Gone) - Glass Tiger
+[2025-08-28 13:18:55] My Sharona - Knack, The
+[2025-08-28 13:23:07] Tainted Love - Soft Cell
+[2025-08-28 13:26:08] Possession - Sarah McLachlan
+[2025-08-28 13:30:56] Owner of a Lonely Heart - Yes
+[2025-08-28 13:34:33] The Untouchable One - Tom Cochrane & Red Rider
+[2025-08-28 13:39:21] Here I Go Again (Live) - Whitesnake
+[2025-08-28 13:44:09] Whip It - Devo
+[2025-08-28 13:49:32] Sign of the Gypsy Queen - April Wine
+[2025-08-28 13:53:45] To Be with You - Mr. Big
+[2025-08-28 13:57:21] American Woman - Lenny Kravitz
+[2025-08-28 14:00:56] I Wanna Dance With Somebody - Whitney Houston
+[2025-08-28 14:05:44] Here Comes the Rain Again - Eurythmics
+[2025-08-28 14:10:31] Linger - The Cranberries
+[2025-08-28 14:15:19] What I Like About You - The Romantics
+[2025-08-28 14:18:18] We Run - Strange Advance
+[2025-08-28 14:24:19] Two Princes - Spin Doctors
+[2025-08-28 14:27:56] When You're Gone (feat. Melanie C) - Bryan Adams
+[2025-08-28 14:32:08] Pour Some Sugar On Me - Def Leppard
+[2025-08-28 14:36:55] Can't Get You Out of My Head - Kylie Minogue
+[2025-08-28 14:40:33] Wild Horses - Gino Vannelli
+[2025-08-28 14:45:57] Always Something There To Remind Me - Naked Eyes
+[2025-08-28 14:51:22] Dream On - Aerosmith
+[2025-08-28 14:56:46] Love Is - Alannah Myles
+[2025-08-28 15:00:24] We Built This City - Starship
+[2025-08-28 15:05:13] Santa Monica - Theory of a Deadman
+[2025-08-28 15:09:24] 1999 - Prince
+[2025-08-28 15:14:16] Rock'N'Roll Duty - Kim Mitchell
+[2025-08-28 15:20:15] Baby I Love Your Way - Peter Frampton
+[2025-08-28 15:25:02] Every Breath You Take - The Police
+[2025-08-28 15:30:24] Faded - soulDecision
+[2025-08-28 15:34:00] I Melt With You - Modern English
+[2025-08-28 15:37:36] My Song - Glass Tiger
+[2025-08-28 15:43:00] The Way You Make Me Feel - Michael Jackson
+[2025-08-28 15:46:36] 867-5309/Jenny - Tutone, Tommy
+[2025-08-28 15:54:58] I'm an Adult Now - The Pursuit of Happiness
+[2025-08-28 15:59:45] Eye of the Tiger - Survivor
+[2025-08-28 16:04:32] Running Up That Hill - Bush, Kate
+[2025-08-28 16:08:44] Someday - Nickelback
+[2025-08-28 16:12:57] Venus - Bananarama
+[2025-08-28 16:17:45] Santa Monica - Everclear
+[2025-08-28 16:23:45] Friday I'm In Love - The Cure
+[2025-08-28 16:27:20] Never Surrender - Corey Hart
+[2025-08-28 16:32:08] I Ran - A Flock of Seagulls
+[2025-08-28 16:35:43] All the Small Things - blink-182
+[2025-08-28 16:39:54] Magic Man - Heart
+[2025-08-28 16:45:18] Walking On Sunshine - Katrina and the Waves
+[2025-08-28 16:51:53] More Than a Feeling - Boston
+[2025-08-28 16:57:16] Back Where You Belong - 38 Special
+[2025-08-28 17:02:04] The Look - Roxette
+[2025-08-28 17:06:53] It's All Been Done - Barenaked Ladies
+[2025-08-28 17:09:52] Take Me Home Tonight - Eddie Money
+[2025-08-28 17:13:31] Hold On - Santana
+[2025-08-28 17:21:20] Stuck in the Middle with You - Stealers Wheel
+[2025-08-28 17:24:56] Wake Me Up Before You Go Go - Wham!
+[2025-08-28 17:29:07] Can't Stop This Thing We Started - Bryan Adams
+[2025-08-28 17:33:20] Magic - Cars, The
+[2025-08-28 17:36:56] Spaceship Superstar - Prism
+[2025-08-28 17:41:08] The Boys of Summer - Don Henley
+[2025-08-28 17:45:57] Wouldn't It Be Good - Nik Kershaw
+[2025-08-28 17:53:44] Closer Together - The Box
+[2025-08-28 17:57:57] I Can See Clearly Now - Jimmy Cliff

@@ -1,0 +1,130 @@
+[2025-08-13 08:00:01] The Kid Is Hot Tonight - Loverboy
+[2025-08-13 08:00:37] Rockin' In the Free World - Neil Young
+[2025-08-13 08:07:46] You Can Call Me Al - Paul Simon
+[2025-08-13 08:12:33] Looking For A Place To Happen - The Tragically Hip
+[2025-08-13 08:20:18] I Ran - A Flock of Seagulls
+[2025-08-13 08:27:28] Rehab - Amy Winehouse
+[2025-08-13 08:34:37] Crazy Talk - Chilliwack
+[2025-08-13 08:41:45] Brown Eyed Girl - Van Morrison
+[2025-08-13 08:48:18] Fantasy - Aldo Nova
+[2025-08-13 08:52:29] Feel It Again - Honeymoon Suite
+[2025-08-13 08:59:38] Another One Bites the Dust - Queen
+[2025-08-13 09:03:13] Roam - The B-52's
+[2025-08-13 09:06:47] When the Night Feels My Song - Bedouin Soundclash
+[2025-08-13 09:10:21] You Can Call Me Al - Paul Simon
+[2025-08-13 09:16:58] Hit Me With Your Best Shot - Benatar, Pat
+[2025-08-13 09:22:20] Life Is a Highway - Tom Cochrane
+[2025-08-13 09:26:31] Romantic Traffic - Spoons
+[2025-08-13 09:30:08] Like a Prayer - Madonna
+[2025-08-13 09:34:54] In the End - LINKIN PARK
+[2025-08-13 09:38:28] Say Hello - April Wine
+[2025-08-13 09:41:30] Walking On Sunshine - Katrina and the Waves
+[2025-08-13 09:48:41] Breakfast In America - Supertramp
+[2025-08-13 09:51:04] You're a Strange Animal - Gowan
+[2025-08-13 09:55:50] It's Still Rock and Roll to Me - Billy Joel
+[2025-08-13 09:58:50] Pinch Me - Barenaked Ladies
+[2025-08-13 10:03:01] Danger Zone - Kenny Loggins
+[2025-08-13 10:06:35] Black Cars - Gino Vannelli
+[2025-08-13 10:12:34] Money - Pink Floyd
+[2025-08-13 10:17:23] Don't You (Forget About Me) - Simple Minds
+[2025-08-13 10:22:09] Powerless (Say What You Want) - Nelly Furtado
+[2025-08-13 10:27:00] Hungry Eyes - Eric Carmen
+[2025-08-13 10:30:34] Turn Me Loose - Loverboy
+[2025-08-13 10:35:57] Wake Me Up Before You Go Go - Wham!
+[2025-08-13 10:39:37] In Your Eyes - Peter Gabriel
+[2025-08-13 10:48:01] Go for Soda - Kim Mitchell
+[2025-08-13 10:52:13] Right Here Right Now - Jesus Jones
+[2025-08-13 10:55:47] Tainted Love - Soft Cell
+[2025-08-13 10:58:10] Rock You Like a Hurricane - Scorpions
+[2025-08-13 11:02:56] Brother Down - Sam Roberts
+[2025-08-13 11:07:07] That's All - Genesis
+[2025-08-13 11:11:54] Baby Ran - 54-40
+[2025-08-13 11:19:41] Wonderwall - Oasis
+[2025-08-13 11:23:16] Don't Shed a Tear - Paul Carrack
+[2025-08-13 11:27:25] Free Fallin' - Tom Petty
+[2025-08-13 11:31:35] Can't Get You Out of My Head - Kylie Minogue
+[2025-08-13 11:35:46] My Girl (Gone, Gone, Gone) - Chilliwack
+[2025-08-13 11:39:56] Everybody Wants to Rule the World - Tears for Fears
+[2025-08-13 11:43:33] Dreams - Fleetwood Mac
+[2025-08-13 11:48:18] Good Times - Tom Cochrane
+[2025-08-13 11:54:16] You Give Love a Bad Name - Bon Jovi
+[2025-08-13 11:57:52] Bad Medicine - Bon Jovi
+[2025-08-13 12:02:38] Always - Bon Jovi
+[2025-08-13 12:08:00] Under the Bridge - Red Hot Chili Peppers
+[2025-08-13 12:12:11] When You're Gone (feat. Melanie C) - Bryan Adams
+[2025-08-13 12:18:09] Owner of a Lonely Heart - Yes
+[2025-08-13 12:22:57] All Star - Smash Mouth
+[2025-08-13 12:25:56] Raise a Little Hell - Trooper
+[2025-08-13 12:29:30] The Boys of Summer - Don Henley
+[2025-08-13 12:30:06] All Star - Smash Mouth
+[2025-08-13 12:32:32] The Boys of Summer - Don Henley
+[2025-08-13 12:34:22] Break My Stride - Matthew Wilder
+[2025-08-13 12:37:23] How You Remind Me - Nickelback
+[2025-08-13 12:43:57] The Way You Make Me Feel - Michael Jackson
+[2025-08-13 12:48:45] Tokyo Rose - Idle Eyes
+[2025-08-13 12:52:19] Save Tonight - Eagle-Eye Cherry
+[2025-08-13 12:56:29] 1999 - Prince
+[2025-08-13 13:00:41] Pride (In the Name of Love) - U2
+[2025-08-13 13:04:54] American Woman - Lenny Kravitz
+[2025-08-13 13:08:28] Can't Fight This Feeling - REO Speedwagon
+[2025-08-13 13:13:14] Five Long Years - Colin James
+[2025-08-13 13:21:01] Dreams - The Cranberries
+[2025-08-13 13:25:11] Sunglasses At Night - Hart, Corey
+[2025-08-13 13:29:55] Here I Go Again (Live) - Whitesnake
+[2025-08-13 13:34:05] Get Lucky (feat. Pharrell Williams) - Daft Punk
+[2025-08-13 13:38:16] Oohwhattanite - April Wine
+[2025-08-13 13:41:51] Always Something There To Remind Me - Naked Eyes
+[2025-08-13 13:48:59] The Boys Are Back In Town - Thin Lizzy
+[2025-08-13 13:53:44] What About Love - Heart
+[2025-08-13 13:57:56] Orange Crush - R.E.M.
+[2025-08-13 14:02:06] Ordinary Day - Great Big Sea
+[2025-08-13 14:05:41] Hungry Like the Wolf - Duran Duran
+[2025-08-13 14:09:52] Crying Over You - Platinum Blonde
+[2025-08-13 14:15:50] Tiny Dancer - Elton John
+[2025-08-13 14:21:49] Don't Stop Believin' - Journey
+[2025-08-13 14:27:12] Nice to Luv You - 54-40
+[2025-08-13 14:30:45] Into the Groove - Madonna
+[2025-08-13 14:35:34] Kids Wanna Rock - Bryan Adams
+[2025-08-13 14:37:58] Don't You Want Me - The Human League
+[2025-08-13 14:42:12] Walk of Life - Dire Straits
+[2025-08-13 14:49:21] Bizarre Love Triangle - New Order
+[2025-08-13 14:54:08] Good Vibrations - Marky Mark and the Funky Bunch
+[2025-08-13 14:58:57] Every Breath You Take - The Police
+[2025-08-13 15:02:33] Sharp Dressed Man - ZZ Top
+[2025-08-13 15:07:23] Head over Feet - Alanis Morissette
+[2025-08-13 15:11:33] The Promise - When In Rome
+[2025-08-13 15:16:55] Love Is - Alannah Myles
+[2025-08-13 15:22:23] Praise You - Fatboy Slim
+[2025-08-13 15:26:02] Beds Are Burning - Midnight Oil
+[2025-08-13 15:30:50] Take Me Home Tonight - Eddie Money
+[2025-08-13 15:34:25] Drops of Jupiter - Train
+[2025-08-13 15:39:12] Hard to Laugh - The Pursuit of Happiness
+[2025-08-13 15:42:10] Manic Monday - Bangles, The
+[2025-08-13 15:48:07] Don't Bring Me Down - Electric Light Orchestra
+[2025-08-13 15:52:53] Somebody's Out There - Triumph
+[2025-08-13 15:56:27] Mr. Jones - Counting Crows
+[2025-08-13 16:01:13] New Sensation - INXS
+[2025-08-13 16:05:26] It Falls Apart - Odds
+[2025-08-13 16:09:05] Sweet Dreams (Are Made of This) - Eurythmics
+[2025-08-13 16:14:28] Your Daddy Don't Know - Toronto
+[2025-08-13 16:20:26] Highway to Hell - AC/DC
+[2025-08-13 16:24:00] Under Pressure - Queen & David Bowie
+[2025-08-13 16:29:22] Rhythm of My Heart - Rod Stewart
+[2025-08-13 16:33:00] Obsession - Animotion
+[2025-08-13 16:37:14] Message In A Bottle - Police, The
+[2025-08-13 16:43:14] Jessie's Girl - Springfield, Rick
+[2025-08-13 16:46:16] Bette Davis Eyes - Kim Carnes
+[2025-08-13 16:54:02] This Beat Goes On/Switchin' to Glide (Original Demo) - The Kings
+[2025-08-13 17:00:35] Whatta Man (feat. En Vogue) - Salt-N-Pepa
+[2025-08-13 17:04:47] Africa - Toto
+[2025-08-13 17:10:09] Should I Stay Or Should I Go - Clash, The
+[2025-08-13 17:13:44] No Rain - Blind Melon
+[2025-08-13 17:18:31] What I Like About You - The Romantics
+[2025-08-13 17:21:30] Eyes of a Stranger - The Payola$
+[2025-08-13 17:29:16] Friday I'm In Love - The Cure
+[2025-08-13 17:32:50] I Like to Rock - April Wine
+[2025-08-13 17:38:13] Heaven Is a Place On Earth - Belinda Carlisle
+[2025-08-13 17:41:16] I'm a Believer - Smash Mouth
+[2025-08-13 17:44:50] We Run - Strange Advance
+[2025-08-13 17:52:01] Carry On Wayward Son - Kansas
+[2025-08-13 17:58:00] Valerie - Winwood, Steve
